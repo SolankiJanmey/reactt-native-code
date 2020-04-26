@@ -1,1 +1,1 @@
-# reactt-native-code
+# react-native-code
